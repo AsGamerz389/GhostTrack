@@ -67,7 +67,7 @@ GhostTrack/
 
 ## Author
 
-Your Name
+NOT_AS
 
 ## License
 
